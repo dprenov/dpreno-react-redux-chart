@@ -13,7 +13,7 @@ Clone this git repo to your local machine:
 
 For an install with defaults, simply run Helm install :
  
-``` helm install (your Helm deployment name) (the path to this Helm chart) ```
+**helm install *(your Helm deployment name)* *(the path to this Helm chart)***
  
 Assuming the default chart name and repo name:
  
