@@ -38,7 +38,7 @@ securityContext: {}
 
 service:
   type: LoadBalancer
-  port: 4100
+  port: 80
   targetport: 4100
 
 ingress:
